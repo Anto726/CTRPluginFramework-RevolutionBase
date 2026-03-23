@@ -12,7 +12,7 @@ jobs:
 
     steps:
     - name: clone
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
       with:
         submodules: recursive
       
@@ -20,13 +20,13 @@ jobs:
       run: make
       
     - name: upload release
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v6
       with:
         name: release
         path: ./*-release.3gx
 
     - name: upload debug
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v6
       with:
         name: debug
         path: ./*-debug.3gx

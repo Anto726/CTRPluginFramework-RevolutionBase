@@ -25,7 +25,8 @@ Strictly for educational purposes.
 ## Projects
 
 - [MK7-Revolution](https://github.com/Anto726/MK7-Revolution)
-- [MK7 PID Grabber](https://github.com/H4x0rSpooky/mk7-pid-grabber)
+- [MK7 PID Grabber](https://github.com/mainexploit/mk7-pid-grabber)
+- [MK7 Custom Bullet Bill](https://github.com/mainexploit/mk7-custom-bullet-bill)
 
 ## Credits
 
